@@ -23,7 +23,10 @@ red: 59100d
 #answer_program tr td ul li { margin-top:5px }
 
 .intro-header { margin-bottom:5px }
-.intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 40px }
+.intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 40px; }
+.my_class { padding-top:80px; padding-bottom:220px; }
+#banner-writing { padding-top:85px; padding-bottom:215px;}
+.translucent-background { background-color:rgba(255,255,255,0.3); padding:5px;}
 .navbar-twitter { display: inline-block; margin-top: 16px; font-size: small }
 .post-preview { font-size: 0.9em }
 .post-preview > a > .post-title {	font-size: 30px }
@@ -31,9 +34,9 @@ red: 59100d
 .plain-text-link { font-size: 0.5em;	font-weight: normal; display: inline-block; font-style: normal }
 
 body { background-color: #EDEDED; }
-a  { color: #000f1a; }
+a  { color: #10375D; }
 h1 { color: #EDEDED; }
-h2,h3,h4,h5 { color: #000f1a }
+h2,h3,h4,h5 { color: #10375D }
 hr  { border-color: #000f1a; margin: 3em 0px }
 p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
 

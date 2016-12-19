@@ -1,0 +1,103 @@
+** apologies for cross-posting **
+
+================================
+LD4KD2015
+2nd Workshop on Linked Data for Knowledge Discovery
+
+http://events.kmi.open.ac.uk/ld4kd2015/
+
+co-located with the European Conference on Machine Learning and
+Principles and Practice of Knowledge Discovery 2015 (ECML/PKDD 2015)
+September 7th - 11th 2015, Porto, Portugal
+(http://www.ecmlpkdd2015.org/ )
+
+================================
+
+Linked Data have attracted a lot of attention in recent years, as the
+underlying technologies and principles provide new ways, following the
+Semantic Web standards, to overcome typical data management and
+consumption issues such as reliability, heterogeneity, provenance or
+completeness.  However, the way in which Linked Data can be applicable
+and beneficial to the Knowledge Discovery (KDD) process is still not
+completely understood.  Many aspects of KDD could in fact benefit from
+Linked Data, e.g. mining Linked Data sources, using Linked Data to
+enrich, represent or integrate local data for data preparation,
+interpretation or visualisation.
+
+The LD4KD2015 workshop encourages the participation of researchers from
+the Knowledge Discovery field to discuss and get informed about the use,
+benefits and challenges of Linked Data, while Linked Data researchers
+can take advantage of and adapt Knowledge Discovery methods in their
+domain.
+
+*SCOPE*
+
+We welcome high quality position papers, research papers and demos in
+which
+(1) Linked Data are used as support of Knowledge Discovery processes to
+extract useful knowledge, or
+(2) Knowledge Discovery techniques are adapted to work and possibly
+extend Linked Data.
+
+Topics of either theoretical and applied interest include, but are not
+limited to:
+
+- Linked Data for data pre-processing: cleaning, sorting, filtering or
+  enrichment
+- Linked Data applied to Machine Learning
+- Linked Data for pattern extraction and behaviour detection
+- Linked Data for pattern interpretation, visualization or optimisation
+- Reasoning with patterns and Linked Data
+- Reasoning on and extracting knowledge from Linked Data
+- Linked Data mining
+- Links prediction or links discovery using KDD
+- Graph mining in Linked Data
+- Interacting with Linked Data for Knowledge Discovery
+
+*IMPORTANT DATES*
+
+Paper submission deadline: Monday, June 29, 2015
+Paper acceptance notification: Monday, July 13, 2015
+Camera-ready deadline: Monday July 27, 2015
+Workshop day: Friday September 11, 2015
+
+*SUBMISSIONS*
+
+Articles should be written following the Springer LNCS template (see
+authors instructions at
+http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) and can be
+up to 10 pages in lenght for research papers or 5 pages for demos and
+position papers and demos, including figures and references.
+
+Submissions are exclusively admitted electronically, in PDF format,
+through the EasyChair system. The submission site is
+https://www.easychair.org/conferences/?conf=ld4kd2015
+
+* PROGRAM COMMITTEE*
+
+Enrico Daga, The Open University, United Kingdom
+Floriana Esposito, University of Bari, Italy
+Nicola Fanizzi, University of Bari, Italy
+Johannes Fürnkranz, Technische Universität Darmstadt, Germany
+Agnieszka Lawrynowicz, Poznan University of Technology, Poland
+Amedeo Napoli, University of Nancy, France
+Matthias Nickles, National University of Ireland Galway, Ireland
+Andriy Nikolov, Fluid Operations AG, Germany
+Heiko Paulheim, University of Mannheim, Germany
+Vojtěch Svátek, Prague University of Economics, Czech Republic
+Isabelle Tellier, University of Paris III, France
+Andrea Tettamanzi, University of Nice Sophia Antipolis, France
+Volker Tresp, Ludwig Maximilian University of Munich, Germany
+
+(more to be announced)
+
+* ORGANISING COMMITTEE *
+
+Ilaria Tiddi, Knowledge Media Institute, The Open University, UK
+ilaria.tiddi@open.ac.uk
+
+Mathieu d'Aquin, Knowledge Media Institute, The Open University, UK
+mathieu.daquin@open.ac.uk
+
+Claudia d’Amato, University of Bari, Italy
+claudia.damato@uniba.it
