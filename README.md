@@ -1,8 +1,8 @@
-# WHISE Website
+# ANSWER Website
 
-http://whise.kmi.open.ac.uk
+http://answer.kmi.open.ac.uk
 
-Website of the 1st Workshop on Humanities in the Semantic Web - co located with the ESWC 2016 conference.
+Website of the 1st 1st International Workshop on Application of Semantic Web technologies in Robotics - co located with the ESWC 2017 conference.
 
 # Credits:
 ## [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
