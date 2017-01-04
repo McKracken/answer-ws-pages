@@ -13,13 +13,13 @@ Workshop chairs:
 - Daniele Nardi - Sapienza University of Rome
 
 # DESCRIPTION
-Robots are slowly spreading outside the industrial and research environment, to approach our everyday life. As this happen, robots will need to expose an increasing capability to deal with different sources of knowledge about the world, for task such as Planning, Computer Vision, Natural Language Processing and so on. The need for integrating robots with Knowledge Bases to provide them with a basic understanding of semantics has been already noticed by the Robotics community, and is testified by research projects such as KnowRob [ http://knowrob.org/ ] and Robobrain [ http://robobrain.me/ ]. 
+Robots are slowly spreading outside the industrial and research environment, to approach our everyday life. As this happen, robots will need to expose an increasing capability to deal with different sources of knowledge about the world, to accomplish complex task involving Planning, Computer Vision, Natural Language Processing and so on. The need for integrating robots with Knowledge Bases to provide them with a basic understanding of semantics has been already noticed by the Robotics community, and is testified by research projects such as KnowRob [ http://knowrob.org/ ] and Robobrain [ http://robobrain.me/ ]. 
 
-It is normal thus to think about whether and how the Semantic Web can have a role in this context. In recent years, the Semantic Web community has studied how to model, mine, manage and exploit knowledge from and for the Web, promoting in parallel the adoption of standards for knowledge representation. In this sense, Robotics appears as a key application domain for Semantic Web technologies, which findings can be applied, adapted and further developed, as also showed by projects such as RoboEarth [ http://roboearth.ethz.ch/ ]. 
+It is therefore natural to think about whether and how the Semantic Web can have a role in this context. In recent years, the Semantic Web community has studied how to model, mine, manage and exploit knowledge from and for the Web, promoting in parallel the adoption of standards for knowledge representation. In this sense, Robotics appears as a key application domain for Semantic Web technologies, whose findings can be applied, adapted and further developed, as also showed by projects such as RoboEarth [ http://roboearth.ethz.ch/ ]. 
 
-It is therefore important to understand how the Semantic Web community is interfacing with Robotics, and whether it can be actually helpful. To this end, the aim of this workshop is to promote and strengthen the dialogue between the two communities that are working on such connected topics, in order to find answers to the posed questions (and hopefully to ask new questions). Dialogue should then serve as a background in fostering, on one hand, the application of Semantic Web standards and techniques in problems common to Robotics, while on the other, in highlighting Robotics as a fertile application field for the Semantic Web community. 
+It is therefore important to understand how the Semantic Web community is interfacing with Robotics, and whether it can be actually beneficial. To this end, the aim of this workshop is to promote and strengthen the dialogue between the two communities that are working on such connected topics, in order to find answers to the posed questions (and hopefully to ask new questions). The stimulated debate should then serve as a background in fostering, on one hand, the application of Semantic Web standards and techniques in problems common to Robotics, while on the other, in highlighting Robotics as a fertile application field for the Semantic Web community. 
 
-We expect original, high-quality contributions that embrace both the general topics of Semantic Web and Robotics. Researchers whose work have reached a certain level of maturity or have already developed impactful applications are invited to submit full papers with appropriately evaluated contributions.
+We expect original, high-quality contributions embracing both the general topics of Semantic Web and Robotics. Researchers whose work have reached a certain level of maturity or have already developed impactful applications are invited to submit full papers.
 Research presenting initial work, ongoing challenges, or not yet fully evaluated systems are also welcome, and can be submitted in the form of short papers, position papers and demos.
 
 While we aim for AnSWeR to cover the broad range of potential interactions between the Semantic Web and Robotics, authors are encouraged to consider the following set of topics:
@@ -43,7 +43,7 @@ While we aim for AnSWeR to cover the broad range of potential interactions betwe
 - Future trends at the intersection of Robotics and the Semantic Web
 
 Submissions in all the categories mentioned above (full, short, position, demo papers) will be peer-reviewed by researchers familiar with both scientific communities. 
-Assuming a sufficient number of accepted papers, they will be published as online proceedings courtesy of CEUR-WS.org, however 
+Assuming a sufficient number of submissions, accepted contributions will be published as online proceedings courtesy of CEUR-WS.org. Moreover, 
 workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2017 conference.
 
 # IMPORTANT DATES
