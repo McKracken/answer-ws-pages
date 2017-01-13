@@ -76,6 +76,7 @@ Page limits are inclusive of references and appendices, if any.
 - Fei Han, Colorado School of Mines, USA
 - Marc Hanheide, University of Lincoln, UK
 - Fredrik Heintz, LinkoÌˆping University, Sweden
+- Joachim Hertzberg, University of Ösnabruck, Germany
 - George Konidaris, Duke University, USA
 - Lars Kunze, University of Birmingham, UK
 - Gerhard Lakemeyer, RWTH Aachen University, Germany
