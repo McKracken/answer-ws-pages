@@ -2,7 +2,7 @@
 1st International Workshop on Application of Semantic Web technologies in Robotics - AnSWeR 2017
 Co-located with the Extended Semantic Web Conference 2017 (ESWC 2017)
 
-Date: May the 28th or 29th, 2017 - TBC
+Date: May the 29th, 2017
 Venue: Portoroz, Slovenia (co-located with ESWC 2017)
 Hashtag: #answer2017
 Twitter: @answerworkshop
@@ -50,7 +50,7 @@ Assuming a sufficient number of submissions, accepted contributions will be publ
 Submission deadline: Friday, March 3
 Notification to authors: Friday, March 31
 Camera-ready due on: Thursday, April 13
-Workshop day: Monday, 29th of May
+Workshop day: Monday, May 29
 
 # SUBMISSION INSTRUCTIONS
 All papers must represent original and unpublished work that is not currently under review. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
