@@ -50,7 +50,7 @@ Assuming a sufficient number of submissions, accepted contributions will be publ
 Submission deadline: Friday, March 3
 Notification to authors: Friday, March 31
 Camera-ready due on: Thursday, April 13
-Workshop day: Sunday or Monday, May, 28 or 29 - TBC
+Workshop day: Monday, 29th of May
 
 # SUBMISSION INSTRUCTIONS
 All papers must represent original and unpublished work that is not currently under review. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
