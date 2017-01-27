@@ -65,13 +65,18 @@ Papers are to be submitted through the Easychair Conference Management System. [
 Page limits are inclusive of references and appendices, if any.
 
 # PROGRAM COMMITTEE
+- Maurizio Atzori, University of Cagliari, Italy
+- Ebrahim Bagheri, Ryerson University, Canada
 - Valerio Basile, UniversiteÌ CoÌ‚te dâ€™Azur, Inria, CNRS, France
 - Vaishak Belle, KU Leuven, Belgium
 - Elena Cabrio, UniversiteÌ CoÌ‚te dâ€™Azur, Inria, CNRS, France
 - Philipp Cimiano, Bielefeld University, Germany
 - Enrico Daga, Open University, UK
+- Daniela D’Auria, University of Naples Federico II, Italy
+- Daniele Dell'Aglio, University of Zuirch, Switzerland
 - Christian Dornhege, University of Freiburg, Germany
 - Esra Erdem, Sabanci University, Turkey
+- Mohammad Farazi, Birmingham City University, UK
 - Malik Ghallab, Univesity of Toulouse, France
 - Fei Han, Colorado School of Mines, USA
 - Marc Hanheide, University of Lincoln, UK
@@ -81,9 +86,11 @@ Page limits are inclusive of references and appendices, if any.
 - Lars Kunze, University of Birmingham, UK
 - Gerhard Lakemeyer, RWTH Aachen University, Germany
 - Masoumeh Mansouri, OÌˆrebro University, Sweden
+- Femke Ongenae, Ghent University, Belgium
 - Andrea Orlandini, ISTC CNR, Italy
+- Valentina Presutti, ISTC CNR, Italy
 - Alessandro Russo, ISTC CNR, Italy
-- Alessandro Saffiotti, OÌˆrebro University, Sweden
+- Alessandro Saffiotti, Orebro University, Sweden
 - Ilaria Tiddi, The Open University, UK
 
 (more to be announced)
