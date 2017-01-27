@@ -80,12 +80,12 @@ Page limits are inclusive of references and appendices, if any.
 - Malik Ghallab, Univesity of Toulouse, France
 - Fei Han, Colorado School of Mines, USA
 - Marc Hanheide, University of Lincoln, UK
-- Fredrik Heintz, LinkoÌˆping University, Sweden
+- Fredrik Heintz, Linköping University, Sweden
 - Joachim Hertzberg, University of Ösnabruck, Germany
 - George Konidaris, Duke University, USA
 - Lars Kunze, University of Birmingham, UK
 - Gerhard Lakemeyer, RWTH Aachen University, Germany
-- Masoumeh Mansouri, OÌˆrebro University, Sweden
+- Masoumeh Mansouri, Örebro University, Sweden
 - Femke Ongenae, Ghent University, Belgium
 - Andrea Orlandini, ISTC CNR, Italy
 - Valentina Presutti, ISTC CNR, Italy
