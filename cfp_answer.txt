@@ -67,9 +67,9 @@ Page limits are inclusive of references and appendices, if any.
 # PROGRAM COMMITTEE
 - Maurizio Atzori, University of Cagliari, Italy
 - Ebrahim Bagheri, Ryerson University, Canada
-- Valerio Basile, UniversiteÌ CoÌ‚te dâ€™Azur, Inria, CNRS, France
+- Valerio Basile, Université Côte d'Azur, Inria, CNRS, France
 - Vaishak Belle, KU Leuven, Belgium
-- Elena Cabrio, UniversiteÌ CoÌ‚te dâ€™Azur, Inria, CNRS, France
+- Elena Cabrio, Université Côte d'Azur, Inria, CNRS, France
 - Philipp Cimiano, Bielefeld University, Germany
 - Enrico Daga, Open University, UK
 - Daniela D’Auria, University of Naples Federico II, Italy
@@ -92,5 +92,3 @@ Page limits are inclusive of references and appendices, if any.
 - Alessandro Russo, ISTC CNR, Italy
 - Alessandro Saffiotti, Orebro University, Sweden
 - Ilaria Tiddi, The Open University, UK
-
-(more to be announced)
