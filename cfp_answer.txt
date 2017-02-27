@@ -47,7 +47,7 @@ Submissions in all the categories mentioned above (full, short, position, demo p
 Assuming a sufficient number of submissions, accepted contributions will be published as online proceedings courtesy of CEUR-WS.org. Moreover, workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2017 conference.
 
 # IMPORTANT DATES
-Submission deadline: Friday, March 3
+Submission deadline: (Friday, March 3) EXTENDED DEADLINE -> Friday, March 10!!!
 Notification to authors: Friday, March 31
 Camera-ready due on: Thursday, April 13
 Workshop day: Monday, May 29
