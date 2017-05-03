@@ -13,14 +13,16 @@ red: 59100d
 #whise_program tr td ul { list-style:none; padding-left:0 }
 #whise_program tr td ul li { margin-top:5px } */
 
-#answer_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 0.95em; width:100% }
+#answer_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 0.95em; width:100%; border: 1px solid #bbb; }
 #answer_program ul li em { font-weight:bold }
 #answer_program p { margin:0 }
-#answer_program tr th.session { text-align:center }
+#answer_program tr th.session { text-align:center; border: 1px solid #bbb;  }
 #answer_program tr th.times { font-weight:normal; min-width:130px; text-align:right; width:18% }
-#answer_program tr td , #answer_program  tr th { border: 1px solid #bbb; padding:5px }
+#answer_program tr td , #answer_program  tr th { padding:5px } /* border: 1px solid #bbb; */
 #answer_program tr td ul { list-style:none; padding-left:0 }
 #answer_program tr td ul li { margin-top:5px }
+#answer_program tr td span.title {font-style:italic;}
+#answer_program tr.specialrow { border: 1px solid #bbb; s}
 
 .intro-header { margin-bottom:5px }
 .intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 40px; }
@@ -39,7 +41,5 @@ h1 { color: #EDEDED; }
 h2,h3,h4,h5 { color: #10375D }
 hr  { border-color: #000f1a; margin: 3em 0px }
 p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
-
-
 
 
