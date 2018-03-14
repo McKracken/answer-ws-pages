@@ -10,7 +10,7 @@ pale-lila: E6D5ED
 lila-gray: BFAFB5
 white: FFFFFF
 */
-/* #whise_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 0.95em; width:100% }
+/* #whise_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial, sans-serif; font-size: 0.95em; width:100% }
 #whise_program ul li em { font-weight:bold }
 #whise_program p { margin:0 }
 #whise_program tr th.session { text-align:center }
@@ -48,7 +48,9 @@ a  { color: #392759; }
 h1 { color: #392759; /*#EDEDED;*/ }
 h2,h3,h4,h5 { color: #392759 }
 hr  { border-color: #000f1a; margin-top: 3em; }
-.subheading { color: #EDEDED; }
+.subheading { color: #EDEDED; /*#392759*/ }
 p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
 
 .ur-label { font-size: 18px; font-weight: 800; color:#FFFFFF;}
+
+.is-fixed .ur-label {color:#404040;}
