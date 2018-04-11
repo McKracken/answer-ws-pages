@@ -68,17 +68,23 @@ Papers are to be submitted through the Easychair Conference Management System. [
 Page limits are inclusive of references and appendices, if any.
 
 # PROGRAM COMMITTEE
-- Valerio Basile, Université Côte d'Azur, Inria, CNRS, France
-- Elena Cabrio, Université Côte d'Azur, Inria, CNRS, France
-- Joachim Hertzberg, University of Ösnabruck, Germany
-- Alessandro Russo, ISTC CNR, Italy
-- Alessandro Saffiotti, Orebro University, Sweden
-- Philipp Cimiano, Bielefeld University, Germany
-- Enrico Daga, The Open University, UK
-- Daniela D’Auria, University of Naples Federico II, Italy
-- Esra Erdem, Sabanci University, Turkey
-- Femke Ongenae, Ghent University, Belgium
+- Antonio Lieto, University of Turin, Italy
 - Andrea Orlandini, ISTC CNR, Italy
-- Andrea Mannocci, The Open University, UK
+- Esra Erdem, Sabanci University, Turkey
+- Alessandro Russo, ISTC CNR, Italy
+- Daniel de Leng, Linköping University, Sweden
+- Joachim Hertzberg, University of Ösnabruck, Germany
+- Marjan Alirezaie, Örebro University, Sweden
+- Valerio Basile, Université Côte d'Azur, INRIA, France
+- Marc Hanheide, University of Lincoln, UK
+- Lars Kunze, University of Oxford, UK
+- Daniela D’Auria, University of Naples Federico II, Italy
+- Ebrahim Bagheri, Ryerson University, US
+- Enrico Daga, The Open University, UK
+- Femke Ongenae, Ghent University, Belgium
+- Stefan Schiffer, RWTH Aachen University, Germany
+- Vaishak Belle, The University of Edinburgh, UK
+- Elena Cabrio, Université Côte d'Azur, Inria, CNRS, France
+- Alessandro Saffiotti, Örebro University, Sweden
 - Others TBA
 
